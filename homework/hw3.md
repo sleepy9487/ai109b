@@ -1,6 +1,6 @@
 # HW3(Truthtable)
 
-## [程式碼](https://github.com/weng0418/ai109b/blob/main/homework/work3/HW3.py):
+## [程式碼](https://github.com/sleepy9487/ai109b/blob/main/homework/hw3.py):
 ```
 def truthTable(n):         # 列出 n 變數的所有可能 0,1 排列
 	p = []                 # p 代表已經排下去的，一開始還沒排，所以是空的
