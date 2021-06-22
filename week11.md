@@ -45,7 +45,7 @@ array([3, 2, 1, 0])
 >np.linalg.det(x) X矩陣的行列式
 * matplotlib - 繪圖工具
 > subplot(numRows,numCols ,plotNum) 列(橫)x行(直)的圖選第plotNum個
-  *  subplot(222) : 意思是有兩列第二行第二個圖
+  > subplot(222) : 意思是有兩列第二行第二個圖
 * scupy - numpy的擴充版
 >from scipy import linalg , linalg.solve(A,B),解出A,B矩陣的特徵向量  
 * sympy - 符號運算
