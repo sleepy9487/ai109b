@@ -9,7 +9,7 @@
   * 搜尋很多層對局 - 尋找最不容易被打敗的下法
 
 * gomoku.py(只有盤面評估)  
-'''
+```
 import sys
 import time
 #  棋盤物件
