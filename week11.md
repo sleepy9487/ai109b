@@ -43,6 +43,7 @@ array([3, 2, 1, 0])
 >np.linspace(x,y,z) : 從x~y分成z個  
 >np.random.randint(0,20,7) 數字0~20取隨機7個  
 >np.linalg.det(x) X矩陣的行列式
+
 * matplotlib - 繪圖工具
 > subplot(numRows,numCols ,plotNum) 列(橫)x行(直)的圖選第plotNum個
   > subplot(222) : 意思是有兩列第二行第二個圖
