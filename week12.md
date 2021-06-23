@@ -13,8 +13,7 @@
 3. 語意解析: 文章層次
 4. 語言合成: 回應階段，將詞彙組成語句、再將語句組合成文章呈現出來  
   * 一個翻譯系統需要具備上面四種以上功能
-## Chomsky Hierarchy (喬姆斯基語言階層）  
-![1](https://github.com/sleepy9487/ai109b/blob/main/ai-image/Chomsky%20Hierarchy%20(%E5%96%AC%E5%A7%86%E6%96%AF%E5%9F%BA%E8%AA%9E%E8%A8%80%E9%9A%8E%E5%B1%A4%EF%BC%89.png)  
+## Chomsky Hierarchy (喬姆斯基語言階層）   
 * 他們的關係是Type3 ⊂ Type2 ⊂ Type1 ⊂Type0  
 * Type1 語言的語法有點限制，因為每個規則的左邊至少要有一個非終端項目 A，但其前後可以連接任意規則，這種語法所能描述的語言稱為「對上下文敏感的語言」 (Context-Sensitive)，因為 可以決定之後到底是否要接 ，所以前後文之間是有關係的，因此才叫做「對上下文敏感的語言」。這種語言在計算理論上可以對應到「線性有界的非決定性圖靈機」，也就是一台「記憶體有限的電腦」  
 * Type2 語言的語法限制更大，因為規則左邊只能有一個非終端項目 (以 A 代表)，規則右邊則沒有限制這種語言被稱為「上下文無關的語言」(Context Free) ，在計算理論上可以對應到 「非決定性的堆疊機」(non-deterministic pushdown automaton)。  
