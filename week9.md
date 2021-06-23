@@ -1,11 +1,12 @@
-圖片取自[image](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
+圖片取自[wiki](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
 
 ## 神經網路
 * [人工神經網路](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
 * 電腦模擬人類神經系統所設計的程式,用來模擬人類視覺、聽覺等行為,企圖讓電腦也具有人類智慧的方法,不過人類的神經系統相當複雜(圖),所以設計起來也十分困難,目前無法真正模擬出真正的人類神經。  
-[image]()
+[image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E4%BA%BA%E9%A1%9E%E7%A5%9E%E7%B6%93%E5%85%83.jpg)
 * 但!,我們不需要設計出高基氏體、細胞膜等人類的細胞胞，我們的目的就是設計出類似行為的程式,人類可以透過抽象化將細胞結構簡化成下圖(單一神經元,單一神經網路)。  
-[image]()[image]() 
+[image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E7%A5%9E%E7%B6%93%E5%85%83.png)
+[image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E5%96%AE%E5%B1%A4%E7%A5%9E%E7%B6%93%E5%85%83.png) 
 
 ## 梯度下降法
 * diff.py
@@ -57,8 +58,8 @@ n= 10000.0 e(n)= 2.7181459268249255
 ```
 ## 梯度下降法
 * 梯度就是斜率最大的方向,所謂的梯度下降法就是朝斜率最大的地方走
-* 梯度下降法讓深度學習就極高的進展
-[image]()  
+* 梯度下降法讓深度學習就極高的進展  
+[image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95.jpg)  
 * vecGradient.py
 ```
 step = 0.01
