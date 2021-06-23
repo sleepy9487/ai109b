@@ -36,25 +36,25 @@
 
 ## 群  
 * 代數的特性  
-[image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E4%BB%A3%E6%95%B8%E7%89%B9%E6%80%A7.JPG)  
+![image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E4%BB%A3%E6%95%B8%E7%89%B9%E6%80%A7.JPG)  
 * 群(一般)  
-[image]()  
+![image]()  
 * 半群  
-[image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E5%8D%8A%E7%BE%A4.JPG)  
+![image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E5%8D%8A%E7%BE%A4.JPG)  
 * 么半群  
-[image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E4%B9%88%E5%8D%8A%E7%BE%A4.JPG)  
+![image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E4%B9%88%E5%8D%8A%E7%BE%A4.JPG)  
 * 交換群  
 >但群不是只有這些!!  
-[image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E7%BE%A4%E7%9A%84%E7%A8%AE%E9%A1%9E.JPG)  
+![image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E7%BE%A4%E7%9A%84%E7%A8%AE%E9%A1%9E.JPG)  
 
 ## 微分與積分  
 * 互為反運算  
 * 關係類似加法與減法,乘法與除法  
 * 可以延伸出更高階的運算  
   * 向量  
-  [image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E5%90%91%E9%87%8F.png)  
+  ![image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E5%90%91%E9%87%8F.png)  
   * 梯度、散度、旋度定理  
-  [image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E6%9B%B4%E9%AB%98%E9%9A%8E%E7%9A%84%E5%AE%9A%E7%90%86.png)
+  ![image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E6%9B%B4%E9%AB%98%E9%9A%8E%E7%9A%84%E5%AE%9A%E7%90%86.png)
 
 ## 電磁場的動力學理論
 * 馬克士威提出了電磁波的波動方程式,推論光是一種電磁波,只要能發送與偵測電磁波,就能以光速傳遞。  
