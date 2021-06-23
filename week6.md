@@ -38,7 +38,7 @@
 * 代數的特性  
 ![image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E4%BB%A3%E6%95%B8%E7%89%B9%E6%80%A7.JPG)  
 * 群(一般)  
-![image]()  
+![image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E7%BE%A4..JPG)  
 * 半群  
 ![image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E5%8D%8A%E7%BE%A4.JPG)  
 * 么半群  
