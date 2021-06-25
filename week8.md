@@ -176,15 +176,15 @@ chess(o, x)
 * 搜尋每一層對方的打法以及我方的應對打法
 * 要小心組合爆炸
 * 用Alpha-Beta修剪
-[image]()
+![image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/Min-Max.jpg)
 
 ## Alpha-Beta修剪法
 * 確認有無讓自身對局變得更有利,將無法改善現狀的選項修剪掉  
-[image]()
+![image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/Alpha-beta.JPG)
 
 ## 恐怖谷理論
 * 取自 [維基百科](https://zh.wikipedia.org/wiki/%E6%81%90%E6%80%96%E8%B0%B7%E7%90%86%E8%AE%BA)  
-[image]()
+![image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E6%81%90%E6%80%96%E8%B0%B7.png)
 
 * 人類過於非擬人物體或者人的會帶有喜愛的情感,但似人非人的物體會讓人帶有恐懼
 * 畫成圖表(非擬人~人)就會呈現成一條深的谷,稱作恐怖谷

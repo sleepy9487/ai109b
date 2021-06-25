@@ -20,7 +20,7 @@
   * 只要有辦法判斷解答的好壞,就可以使用優化法,無論是影像辨識還是語音辨識,可謂萬物皆優化  
   * ex : 爬山演算法、退火模擬法、梯度下降法  
 ## 常見神經元的開關函數  
-![神經元的開關函數]()  
+![神經元的開關函數](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E7%A5%9E%E7%B6%93%E5%85%83%E7%9A%84%E9%96%8B%E9%97%9C%E5%87%BD%E6%95%B8.png)  
 >用LeakyRelu可以讓平坦的部分可以有點斜率  
 ## 傳統的神經網路  
  * 多層感知器為主要模型  
@@ -28,7 +28,7 @@
  * 梯度就是利用微分找出斜率最大的方向並前進(again)  
  * 反傳遞演算法就是利用鏈鎖規則,後一層反推前一層梯度,調整前一層的參數  
  * 梯度下降法仍然在優化  
-![多層感知器]()  
+![多層感知器](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E5%A4%9A%E5%B1%A4%E6%84%9F%E7%9F%A5%E5%99%A8.JPG)  
 ## 深度學習的神經網路  
 * 除了多層感知器以外,還新增了  
   * 1.卷積神經網路CNN  
@@ -43,9 +43,9 @@
   * ReLu層
 # 循環神經網路RNN
   * 最常被用來處理語言,比如機器翻譯系統
-![RNN.LSTM1]
-![RNN.LSTM2]
-![RNN.LSTM3]
+![RNN.LSTM1](https://github.com/sleepy9487/ai109b/blob/main/ai-image/RNN.LSTM1.png)
+![RNN.LSTM2](https://github.com/sleepy9487/ai109b/blob/main/ai-image/RNN.LSTM2.png)
+![RNN.LSTM3](https://github.com/sleepy9487/ai109b/blob/main/ai-image/RNN.LSTM3.png)
 # 生成對抗網路GAN
   * 擅長模仿別人的風格
   * 將素描轉為擬真照片
@@ -53,7 +53,7 @@
   * 利用獎勵機制學習
   * 以掃地機器人為例,掃到垃圾就會加一分,作為獎勵
   * Alphago利用強化學習+神經網路+蒙地卡羅搜尋
-![卷基層]()
+![卷基層](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E5%8D%B7%E7%A9%8D%E5%B1%A4.png)
 ## 資料與圖片來源
   * [人工智慧與神經網路](https://www.slideshare.net/ccckmit/ss-94563680)
 >小知識 : 圖靈獎不喜歡頒獎給不確定事務的事項(神經網路)

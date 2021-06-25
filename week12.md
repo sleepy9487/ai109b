@@ -13,19 +13,18 @@
 3. 語意解析: 文章層次
 4. 語言合成: 回應階段，將詞彙組成語句、再將語句組合成文章呈現出來  
   * 一個翻譯系統需要具備上面四種以上功能
-## Chomsky Hierarchy (喬姆斯基語言階層）
-![image]()
+## Chomsky Hierarchy (喬姆斯基語言階層）   
 * 他們的關係是Type3 ⊂ Type2 ⊂ Type1 ⊂Type0  
 * Type1 語言的語法有點限制，因為每個規則的左邊至少要有一個非終端項目 A，但其前後可以連接任意規則，這種語法所能描述的語言稱為「對上下文敏感的語言」 (Context-Sensitive)，因為 可以決定之後到底是否要接 ，所以前後文之間是有關係的，因此才叫做「對上下文敏感的語言」。這種語言在計算理論上可以對應到「線性有界的非決定性圖靈機」，也就是一台「記憶體有限的電腦」  
 * Type2 語言的語法限制更大，因為規則左邊只能有一個非終端項目 (以 A 代表)，規則右邊則沒有限制這種語言被稱為「上下文無關的語言」(Context Free) ，在計算理論上可以對應到 「非決定性的堆疊機」(non-deterministic pushdown automaton)。  
 * Type3 的語法限制是最多的，其規則的左右兩邊都最多只能有一個非終端項目 (以 A, B 表示) ，而且右端的終端項目 (以 a 表示) 只能放在非終端項目 B 的前面。這種語言稱為「正規式」(Regular)，可以用程式設計中常用的「正規表達式」(Regular Expression) 表示，對應到計算理論中的有限狀態機(Finite State Automaton)  
-![image]()
+![image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/Chomsky%20hierarchy.JPG)
 * 大多數程式語言為Type2類型,以下是一個Type2所不能處理的經典範例  
-![image]()
+![image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/Type1%E5%8F%AF%E4%BB%A52%E4%B8%8D%E8%A1%8C.JPG)
 ## BNF與生成語法
 * 語法  
-![image]()  
+![image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/BNF%E7%94%9F%E6%88%90%E8%AA%9E%E6%B3%95.JPG)  
 * 語法範例  
-![image]()
-* 語法的剖析 
-![image]()
+![image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/BNF%E7%AF%84%E4%BE%8B.JPG)
+* 語法的剖析  
+![image](https://github.com/sleepy9487/ai109b/blob/main/ai-image/%E8%AA%9E%E8%A8%80%E5%89%96%E6%9E%90%E7%AF%84%E4%BE%8B.JPG)
