@@ -29,3 +29,5 @@
 [第十五週](https://github.com/sleepy9487/ai109b/blob/main/week15.md) | 20210605 
 [第十六週](https://github.com/sleepy9487/ai109b/blob/main/week16.md) | 20210610 
 
+# [license授權](https://github.com/sleepy9487/ai109b/blob/main/LICENSE)
+
