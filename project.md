@@ -1,11 +1,14 @@
 ## 期末專案:minist訓練模型  
 # 前言  
+* [程式碼](https://github.com/sleepy9487/ai109b/blob/main/project.py)
+* [授權聲明](https://github.com/sleepy9487/ai109b/blob/main/LICENSE)
 * 參考資料來源  
-  * [深度學習與Keras] (https://github.com/twtrubiks/face-recognition-notes)  
+  * [深度學習與Keras](https://github.com/twtrubiks/face-recognition-notes)  
   * [Keras:Mnist](https://waternotetw.blogspot.com/2018/03/keras-mnist.html)  
   * [使用Keras進行深度學習](https://zhuanlan.zhihu.com/p/34822375)  
-  * [DeepingLearningKeras手寫辨識Mnist] (https://medium.com/bryanyang0528/deep-learning-keras-%E6%89%8B%E5%AF%AB%E8%BE%A8%E8%AD%98-mnist-b41757567684)  
-* 以mnist做練習  
+  * [DeepingLearningKeras手寫辨識Mnist](https://medium.com/bryanyang0528/deep-learning-keras-%E6%89%8B%E5%AF%AB%E8%BE%A8%E8%AD%98-mnist-b41757567684)  
+* 以mnist做練習
+  
 
 # [Mnist資料集](https://en.wikipedia.org/wiki/MNIST_database)  
 >圖片來源也在此
