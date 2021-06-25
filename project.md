@@ -19,7 +19,7 @@
 from keras.datasets import mnist  
 (x_train_images, y_train_labels),(x_test_images, y_test_labels) = mnist.load_data()
 ```
->Kersa以預備好mnist數據集，從資料庫提取即可
+>Kersa已預備好mnist數據集，從資料庫提取即可
 >Mnist資料分有訓練圖像跟測試圖像
 >image是用來訓練的資料,label則是資料對應的正確答案
 # Mnist資料型態
